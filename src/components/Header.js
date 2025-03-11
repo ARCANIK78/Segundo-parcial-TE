@@ -1,7 +1,7 @@
 // src/components/Header.js
 import React, { useState, useEffect } from 'react';
 
-import image1 from './img/maxresdefault (1).jpg';
+import image1 from './img/Html.jpg';
 import image2 from './img/maxresdefault.jpg';
 import image3 from './img/python-thumb.jpg';
 
